@@ -145,3 +145,6 @@ gui/csv/
 pytrader/user_config.sh
 
 **.DS_Store
+
+# ignore .idea folder
+.idea/
